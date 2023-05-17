@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.fi_collective",
+            "sha256_cert_fingerprints": [
+                "B7:B8:2E:3D:F2:B6:FE:B4:EB:3A:DE:21:3A:21:AE:CF:B2:15:3B:7F:14:69:78:71:3E:AD:E8:FA:E4:46:96:7F"
+            ]
+        }
+    }
+]
